@@ -1,4 +1,4 @@
-# NLP-Project-With-Full-Pipeline
+# Hate Classification Using NLP With Data Ingestion from GCloud
 
 ## How TO Start?
 
