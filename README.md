@@ -91,6 +91,8 @@ gcloud init
 
 - For Download the data from gcloud we use sync_folder_from_gcloud method from configuration folder inside gsync file.
 
+## License
 
+[Apache 2.0](http://www.apache.org/licenses/)
 
 
